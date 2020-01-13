@@ -18,9 +18,10 @@ app.use(express.static(__dirname + '/public'));
 // The below points our server to a series of "route" files.
 // These routes give our server a "map" of how to respond when users visit or request data from constious URLs.
 // ================================================================================
-require("./routes/apiRoutes")(app);
 require("./routes/htmlRoutes")(app);
-
+require("./routes/apiGetRoute")(app);
+require("./routes/apiPostRoute")(app);
+require("./routes/apiDeleteRoute")(app);
 // Starts the server to begin listening
 // =============================================================
 app.listen(PORT, function() {
