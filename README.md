@@ -25,8 +25,9 @@ ________________________________________________________________________________
 - run node server.js
 - open your browser and navigate to http://localhost:3000/
 
-  --You can also test a live version of the app--
-  link to deployed app on heroku: https://my-note-pad.herokuapp.com/
+  **This app is also deployed on Heroku**
+  **You can view and test it online here**
+   https://my-note-pad.herokuapp.com/
 ________________________________________________________________________________________________________________________________________
 
 **image of application**
