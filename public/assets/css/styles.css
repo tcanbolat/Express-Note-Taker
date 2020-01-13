@@ -4,6 +4,7 @@ html, body {
   height: 100%;
   margin: 0;
   padding: 0;
+  background-color: #fdfd96;
 }
 
 .save-note {
@@ -22,6 +23,7 @@ html, body {
   width: 100%;
   outline: none;
   border: none;
+  background-color: #fdfd96;
 }
 
 .note-textarea {
@@ -70,3 +72,8 @@ html, body {
   padding: 20px;
   cursor: pointer;
 }
+
+.card, .jumbotron{
+  background-color: #FFAE42;
+}
+
