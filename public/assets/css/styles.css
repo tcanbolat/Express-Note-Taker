@@ -77,3 +77,10 @@ html, body {
   background-color: #FFAE42;
 }
 
+.card, .jumbotron{
+  background-color: #FFAE42;
+}
+
+.navbar {
+  background-color: #00905C !important;
+}
