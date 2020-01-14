@@ -27,7 +27,7 @@ ________________________________________________________________________________
 - open your browser and navigate to http://localhost:3000/
 ________________________________________________________________________________________________________________________________________
  
- **This app is also deployed on Heroku**
+ **I have also deployed this app on Heroku**
   **You can view and test it online here**
    https://my-note-pad.herokuapp.com/
    - You might notice some notes already saved from prevoius users testing the app. feel free to add or delete notes as you like.
