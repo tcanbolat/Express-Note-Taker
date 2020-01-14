@@ -5,15 +5,15 @@ ________________________________________________________________________________
 **Description**
 ________________________________________________________________________________________________________________________________________
 
-A node application that that saves and removes user notes using express app.get, .post, and .delete
+A node express application that that saves and removes user notes using express .get, .post, and .delete routes.
 
 The users notes get saved into an db.json file located in the db folder.
 
 the database uses JSON formatting
 
-- using the .get method, the express server gets and retrieves the notes stored in the db folder.
-- the .post method allows express to add any new notes to the db.json file.
-- .delete method, deletes the specific note from the db.json file.
+- using the .get route, the express server gets and retrieves the notes stored in the db folder.
+- the .post route allows express to add any new notes to the db.json file.
+- .delete route, deletes the specific note from the db.json file.
 
 ________________________________________________________________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________
