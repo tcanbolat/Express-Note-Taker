@@ -16,6 +16,7 @@ the database uses JSON formatting
 - .delete method, deletes the specific note from the db.json file.
 
 ________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________
 
 **Instructions**
 ________________________________________________________________________________________________________________________________________
@@ -24,16 +25,21 @@ ________________________________________________________________________________
 - run npm install
 - run node server.js
 - open your browser and navigate to http://localhost:3000/
-
-  **This app is also deployed on Heroku**
+________________________________________________________________________________________________________________________________________
+ 
+ **This app is also deployed on Heroku**
   **You can view and test it online here**
    https://my-note-pad.herokuapp.com/
+   - You might notice some notes already saved from prevoius users testing the app. feel free to add or delete notes as you like.
+   - the app is deployed on a free dyno, their is a limit of how much daily traffic the app is allowed, if the link is not working, it        must mean the daily limit has been reached.
+________________________________________________________________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________
 
 **image of application**
 ________________________________________________________________________________________________________________________________________
 
-![Example profile](./examplefiles/example-img1.png) ![Example profile](./examplefiles/example-img2.png) 
+![Example profile](./examplefiles/example-img1.png)                  ![Example profile](./examplefiles/example-img2.png) 
+________________________________________________________________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________
 
 **demo running server**
